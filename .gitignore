@@ -1,0 +1,4 @@
+.claude/
+.DS_Store
+n8n/test_submissions.json
+n8n/test_submissions.csv
